@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(https://i.gifer.com/MKuM.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width: 10px;
+    background-image: url(https://www.enjpg.com/img/2020/blackpink-7.jpg);
+    background-size:cover ;
+    border-style:ridge;
+    border-color: darkviolet;
+}
